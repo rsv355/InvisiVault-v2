@@ -3,4 +3,6 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="folder_view">Folder view</string>
+    <string name="file_view">File view</string>
 </resources>
